@@ -1,0 +1,4 @@
+{
+    "command": "python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/live-video-stream-transcription-platform-7e7bac8c/live_video_backend"
+}

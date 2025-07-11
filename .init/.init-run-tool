@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/live-video-stream-transcription-platform-7e7bac8c/live_video_backend"
+}
